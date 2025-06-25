@@ -9,10 +9,12 @@
 ---
 
 ## 🌐 Socials  
+
+<p align="center">
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ansumanparida)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ansumanparida)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:paridaansuman57@gmail.com)
-
+</p>
 ---
 
 # 💻 Tech Stack  
@@ -47,8 +49,12 @@
 
 ---
 
+<div align="center">
+
 ## 🏆 GitHub Trophies  
-<img src="https://github-profile-trophy.vercel.app/?username=ansuman-3&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Trophies" />
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ansuman-3&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+</div>
 
 ---
 
